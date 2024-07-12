@@ -50,5 +50,3 @@ contains a total of 981 facial expressions. we use 10-fold Cross validation in t
 - Model：    VGG19 ;       Test_acc：   94.646%   <Br/>
 - Model：   Resnet18 ;     Test_acc：   94.040%   
 
-# Facial-Emotions-Recognition
-# Facial-Emotions-Recognition
